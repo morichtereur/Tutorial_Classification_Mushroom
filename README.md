@@ -8,5 +8,8 @@ We will try to classify these mushrooms as poisonous or edible using
 - **Quadratic discriminant analysis (QDA)**
 
 Dataset 2:
+- **Logistic regression**
+- **Linear discriminant analysis (LQA)**
+- **Quadratic discriminant analysis (QDA)**
 - **KNN Classification (KNN)**
 - **Naive Bayes Classification (NB)**
